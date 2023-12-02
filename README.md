@@ -14,7 +14,7 @@ The main objective of the analysis is to develop a customer segmentation to defi
      1. **Univariate Outlier Detection**: Detect outliers in one variable.
      2. **Multivariate Outlier Detection**: Detect outliers in multiple variables.
    - **Via Statistics**: Use statistical measures to identify potential outliers.
-
+4. **Modeling part**: Clustering techniques using `K-Means`, `Agglomerative clustering`, and `DBSCAN` for outliers detection.
 ## Installation
 To clone and run this application, you'll need Git installed on your computer. From your command line:
 
