@@ -1,7 +1,7 @@
 # UnsupervisedML
 
 ## Description
-This repository, created by (Ismail Ouahbi)[https://www.linkedin.com/in/ismail-ouahbi/] , contains various implementations of unsupervised machine learning algorithms. The main file in this repository is a Jupyter notebook named "Clustering algorithms (testing & comparing)".
+This repository, created by [Ismail Ouahbi](https://www.linkedin.com/in/ismail-ouahbi/) , contains various implementations of unsupervised machine learning algorithms. The main file in this repository is a Jupyter notebook named "Clustering algorithms (testing & comparing)".
 
 ## Objective of the Analysis
 The main objective of the analysis is to develop a customer segmentation to define marketing strategy. The sample dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
